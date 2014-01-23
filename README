@@ -1,0 +1,5 @@
+A simple grade calculator I made one night.
+Enter grades in the appropriate boxes to see your average.
+Enter an X for an assignment, and a point value in the result box, to have it calculate what is needed on that assignment to get that many points.
+
+To compile, run the makefile. 
